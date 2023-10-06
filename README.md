@@ -1,1 +1,1 @@
-concert-chrome-ext
+Extension for LLM
